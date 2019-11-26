@@ -1,7 +1,7 @@
 ![](https://user-gold-cdn.xitu.io/2019/11/26/16ea603e37008d3f?w=900&h=383&f=png&s=627419)
 
 
-<a href="https://juejin.im/user/5dcd7f6f6fb9a0203d746ca4"><img src="https://img.shields.io/static/v1?label=%E5%8D%9A%E5%AE%A2&message=%E6%8E%98%E9%87%91&color=%3Cblackgreen%3E"></img></a> &emsp;&emsp;<a href="https://github.com/JavaKongHao/documents#%E8%81%94%E7%B3%BB%E6%88%91"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E5%BE%AE%E4%BF%A1-blackgreen"></img></a>
+<a href="https://juejin.im/user/5dcd7f6f6fb9a0203d746ca4"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%8E%98%E9%87%91-blue"></img></a> &emsp;&emsp;<a href="https://github.com/JavaKongHao/documents#%E8%81%94%E7%B3%BB%E6%88%91"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E5%BE%AE%E4%BF%A1-blackgreen"></img></a>
 
 ## 空号 ："Hello World"
 >一切不可想象，终将化为寻常。
